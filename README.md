@@ -1,6 +1,10 @@
 # Audio-authenticity
 2020之江杯全球人工智能大赛，语音鉴伪挑战赛TOP3方案
 
+
+![](https://github.com/ZainHuang/Audio-authenticity/blob/main/images/%E3%80%90%E5%87%8C%E8%93%9D%E9%A3%8E%E3%80%91%E3%80%90%E9%9F%B3%E9%A2%91%E8%B5%9B%E9%81%93%E3%80%912020%E4%B9%8B%E6%B1%9F%E6%9D%AF%E5%85%A8%E7%90%83%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E8%B5%9B.png)
+
+
 运行环境
 Linux版本：
 Linux fuxilabor_labor0_S4_Odps_S96_dsw_prepaid_cnsh_891_2020100812331 4.9.65 #5 SMP Fri Mar 30 15:59:08 CST 2018 x86_64 x86_64 x86_64 GNU/Linux
